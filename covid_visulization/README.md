@@ -12,3 +12,6 @@ In this project, we explore various datasets related to COVID-19, including vacc
 - **Pandas**
 - **Matplotlib/Seaborn**
 - **Plotly**
+
+### **Data Base**
+- **country_wise_latest.csv**
